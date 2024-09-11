@@ -4,7 +4,7 @@
     "category": "Developer Tools",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Amazon+SimpleDB+Connector",
     "description": "The Amazon SimpleDB connector allows you to access the Amazon SimpleDB API through WSO2 ESB. Amazon SimpleDB allows you to run queries on structured data in real time. This service works in close conjunction with Amazon Simple Storage Service (Amazon S3) and Amazon Elastic Compute Cloud (Amazon EC2), collectively providing the ability to store, process, and query data sets in the cloud.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
